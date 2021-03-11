@@ -1,7 +1,7 @@
 ### 🐧 &nbsp;Sobre mim 
 
-- 🌱 &nbsp; Atualmente estou estudando Dart, Flutter e Java.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/salvador).
+- 🌱 &nbsp; Atualmente estudando Dart, Flutter e Java.
+- 🎓 &nbsp; Graduando em Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/salvador).
 - 🧩 &nbsp; Trabalhando como Estagiário em Desenvolvimento mobile com Flutter na [Computação Brasil](http://computacaobrasil.com.br/).
 - 🎣 &nbsp; Você pode encontrar aqui [Linkedin](https://www.linkedin.com/in/reinan-santos99).
 
