@@ -42,9 +42,8 @@
  
 <br/>
 
-<a href="https://github.com/ReinanS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReinanS&theme=tokyonight&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=reinans&theme=default)](https://github.com/reinans/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 
 <br/>
 
